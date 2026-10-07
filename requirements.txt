@@ -1,0 +1,6 @@
+cloudscraper
+openpyxl
+pandas<2
+playwright
+playwright-stealth
+python-dotenv

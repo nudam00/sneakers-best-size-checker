@@ -1,0 +1,12 @@
+{
+  "email": "you@example.com",
+  "alias_username": "your-alias-username",
+  "alias_password": "your-alias-password",
+  "stockx_password": "your-stockx-password",
+  "stockx_fee": 0.1,
+  "zal_margin": 0.2,
+  "margin": 0.15,
+  "usd_rate": 4.0,
+  "eur_rate": 4.3,
+  "proxy": ""
+}
